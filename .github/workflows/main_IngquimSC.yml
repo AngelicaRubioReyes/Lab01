@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'IngquimSC'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_9f6df37e795949d2b7b1a15ced4fa359 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_9e493298a3294fe2b406f69da9c9c65b }}
         package: .
